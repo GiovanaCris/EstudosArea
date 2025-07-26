@@ -21,8 +21,6 @@
 
 ```bash
 📦 estudos-analise-dados
-├── alunos.csv
-├── alunos.xlsx
 ├── 📂 fundamentos-python/
 │   └── variaveis, loops, funções, etc.
 ├── 📂 manipulacao-dados/
