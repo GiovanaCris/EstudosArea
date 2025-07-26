@@ -1,0 +1,9 @@
+nome,categoria,quantidade,preço
+Caderno,Papelaria,10,"R$ 12,50"
+Lápis,Papelaria,100,"R$ 1,20"
+Caneta Azul,Papelaria,80,"R$ 2,30"
+Mouse,Eletrônicos,15,"R$ 45,99"
+Teclado,Eletrônicos,12,"R$ 120,00"
+Café,Alimentos,25,"R$ 18,75"
+Achocolatado,Alimentos,30,"R$ 7,50"
+Água,Alimentos,50,"R$ 2,00"
